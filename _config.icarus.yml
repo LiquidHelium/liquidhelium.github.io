@@ -252,6 +252,7 @@ plugins:
     animejs: true
     # Show the "back to top" button
     back_to_top: true
+    katex: true
 # CDN provider settings
 # https://ppoffice.github.io/hexo-theme-icarus/Configuration/Theme/speed-up-your-site-with-custom-cdn/
 providers:
